@@ -12,3 +12,6 @@ Este projeto é parte de um desafio do curso *Praticando Lógica de Programaçã
 - Os participantes podem ser adicionados clicando no botão "*Adicionar*" ou pressionando "*Enter*" no teclado;
 - O sorteio entre os participantes ocorre apenas com um número par de pessoas, garantindo que todos recebam um presente (rs);
 - O sistema impede que um participante sorteie o próprio nome.
+
+### Como acessar
+É possível acessar o jogo através do link: https://jogo-do-amigo-secreto-henna.vercel.app/
